@@ -1,0 +1,15 @@
+AllCops:
+  TargetRubyVersion: 2.6
+  Exclude:
+    - 'bin/**/*'
+    - 'config/**/*'
+    - 'db/**/*'
+    - 'lib/**/*'
+    - 'log/**/*'
+    - 'tmp/**/*'
+    - 'public/**/*'
+    - 'storage/**/*'
+    - 'vendor/**/*'
+
+Style/Documentation:
+  Enabled: false
