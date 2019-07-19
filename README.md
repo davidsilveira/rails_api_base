@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple Rails API project.
+May this is a perfect way to start a project xD.
 
-Things you may want to cover:
+### Ruby version
+* Ruby version: 2.6.3
 
-* Ruby version
+### Database
+* Run `rails db:setup` to create the database
 
-* System dependencies
+### How to run the test suite
+* Run `rspec`
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
